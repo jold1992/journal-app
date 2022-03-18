@@ -37,7 +37,7 @@
 }
 
 .notes__textarea {
-  border: 1px solid black;
+  border: 1px solid rgb(151, 148, 148);
   color: $dark-gray;
   font-size: 20px;
   flex: 1 1 auto;
@@ -47,5 +47,4 @@
 .notes__image img {
   box-shadow: 5px 5px $dark-gray;
   height: 150px;
-  border-radius: 160px;
 }
